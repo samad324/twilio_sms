@@ -1,0 +1,6 @@
+{
+  "name": "Elastic-mail",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": ["productivity", "Elastic Email"],
+  "success_url": "/signup"
+}
