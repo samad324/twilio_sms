@@ -1,6 +1,6 @@
 {
-  "name": "Elastic-mail",
+  "name": "twilio_sms",
   "description": "This app does one little thing, and does it well.",
-  "keywords": ["productivity", "Elastic Email"],
+  "keywords": ["productivity", "twilio_sms"],
   "success_url": "/signup"
 }
